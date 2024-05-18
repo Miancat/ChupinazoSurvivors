@@ -1,6 +1,6 @@
 extends Node2D
 
-
+var speed := 50.0
 var damage := 5
 var max_health := 20
 var health := 20:
