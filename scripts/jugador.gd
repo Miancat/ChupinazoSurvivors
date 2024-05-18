@@ -2,9 +2,9 @@ extends CharacterBody2D
 
 const SPEED = 150.0
 
-var max_health := 100.0
+var max_health := 100
 
-var health = 100.0:
+var health = 100:
 	set(value):
 		health = clamp(value, 0, max_health)
 

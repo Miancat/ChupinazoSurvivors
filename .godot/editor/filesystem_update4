@@ -1,3 +1,5 @@
-res://scenes/jugador.tscn
 res://scenes/nivel_1.tscn
+res://scenes/jugador.tscn
 res://scenes/enemigo_1.tscn
+res://scripts/enemigo_1.gd
+res://scripts/jugador.gd
